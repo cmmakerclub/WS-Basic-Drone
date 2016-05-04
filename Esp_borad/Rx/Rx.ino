@@ -1,3 +1,5 @@
+// stable 2.0.0 rc2 //
+
 #include <ESP8266WiFi.h>
 #include <Ticker.h>
 #include <WiFiUDP.h>
