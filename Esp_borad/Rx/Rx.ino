@@ -1,4 +1,4 @@
-// stable 2.0.0 rc2 //
+// stable 2.0.0 rc1 //
 
 #include <ESP8266WiFi.h>
 #include <Ticker.h>
